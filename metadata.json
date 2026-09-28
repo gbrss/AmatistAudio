@@ -1,0 +1,6 @@
+{
+  "name": "AmatistAudio",
+  "description": "Modernized Caustic 3 DAW clone with rack synths, beatbox drums, pattern sequencer, song arranger, and real-time audio engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
